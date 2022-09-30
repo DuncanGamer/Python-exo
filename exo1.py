@@ -14,5 +14,5 @@ if (0<a<4000):
         if (0<c<4000):
             moyenne=(a+b+c)/3
             print(moyenne)
-            print(moyenne)
+            
    
